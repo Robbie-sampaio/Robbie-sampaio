@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil da Robbie-sampaio😁
+## Bem-vindo(a) ao perfil da robbie-sampaio😁
 
  <div>
-   <a href="https://github.com/Robbie-sampaio">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robbie-sampaio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robbie-sampaio&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/robbie-sampaio">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robbie-sampaio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbie-sampaio&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
